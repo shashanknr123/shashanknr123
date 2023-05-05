@@ -30,6 +30,4 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shashanknr1) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7060311054769131520" height="322" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+ 
