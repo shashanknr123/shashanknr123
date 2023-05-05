@@ -32,3 +32,4 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7060311054769131520" height="322" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
